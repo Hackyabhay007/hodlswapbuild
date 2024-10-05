@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7115cd2e.css",
+    "main.js": "/static/js/main.bf1cf595.js",
+    "static/js/453.89d454ab.chunk.js": "/static/js/453.89d454ab.chunk.js",
+    "static/media/invite.svg": "/static/media/invite.6615373e8a143dc6c01c8a8da17fbc50.svg",
+    "static/media/coin1.png": "/static/media/coin1.879f6db870a9fdaa5995.png",
+    "static/media/energy.svg": "/static/media/energy.660f7d391735f1737779eb308238ba92.svg",
+    "static/media/level-3.png": "/static/media/level-3.1a6aed27c106bb4c356b.png",
+    "static/media/level-2.png": "/static/media/level-2.ba5366e4055a6df3b2a8.png",
+    "static/media/level-9.png": "/static/media/level-9.cb449caccb250181d55c.png",
+    "static/media/level-6.png": "/static/media/level-6.fd2594141889b528e1dd.png",
+    "static/media/level-5.png": "/static/media/level-5.54a1e7d0634bcc14caf8.png",
+    "static/media/level-4.png": "/static/media/level-4.185f8f15de9c3ed0ef56.png",
+    "static/media/level-7.png": "/static/media/level-7.97f39b9100a08c453874.png",
+    "static/media/level-12.png": "/static/media/level-12.8440bcf5b635f42aeb79.png",
+    "static/media/level-10.png": "/static/media/level-10.171c689c5075d91b0059.png",
+    "static/media/level-17.png": "/static/media/level-17.ed0c29149ee759f0b62c.png",
+    "static/media/level-8.png": "/static/media/level-8.4cae88fcfae8d20f4864.png",
+    "static/media/level-11.png": "/static/media/level-11.008081a8f2359d181b5d.png",
+    "static/media/level-13.png": "/static/media/level-13.d7d3672f1af4cb0d88df.png",
+    "static/media/level-15.png": "/static/media/level-15.c02a3a132b4aaf095351.png",
+    "static/media/level-16.png": "/static/media/level-16.e0b4c4ba51f0d05d92ee.png",
+    "static/media/level-14.png": "/static/media/level-14.460924d97c49fc802edf.png",
+    "static/media/level-1.png": "/static/media/level-1.2d985c84603ae64bc2ae.png",
+    "static/media/mine.png": "/static/media/mine.75970c4825fb68345d84.png",
+    "index.html": "/index.html",
+    "main.7115cd2e.css.map": "/static/css/main.7115cd2e.css.map",
+    "main.bf1cf595.js.map": "/static/js/main.bf1cf595.js.map",
+    "453.89d454ab.chunk.js.map": "/static/js/453.89d454ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7115cd2e.css",
+    "static/js/main.bf1cf595.js"
+  ]
+}
